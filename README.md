@@ -7,19 +7,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/themohebbikhah/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here!
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **5** years ago.
-
-Since then I pushed **2900**+ commits, opened **229**+ issues, submitted **337**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
+Born in September 2002, I grew up with a sense of hope and a bright future.
+I started programming at home at the age of 14 and taught myself.
+Until today, I have been able to learn and use many basics and topics in different fields. The ability to be full-stack in projects and to be able to collaborate and the necessary abilities for development and open-mindedness.
+By learning the security issues of the server, the ability to program the API along with the relevant document, I am familiar with working with databases and database topics, and I am able to manage data banks.
+I have more interest and mastery in API programming.
 
 
 ```javascript
