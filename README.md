@@ -16,11 +16,18 @@ const hossein = {
             php: ["laravel"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            dart: ["flutter app"],
+        },
+        winApp:{
+            languages: [
+                "C# (winForm)",
+                "C++",
+                "B4j"
+            ]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["sqlServer", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "open-cv", "messaging", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Ai",
